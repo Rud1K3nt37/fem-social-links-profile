@@ -1,0 +1,45 @@
+:root {
+  --color-black: #000;
+  --color-white: #fff;
+
+  --color-accent: #cbe462;
+
+  --color-bg: #141414;
+  --color-text: #fff;
+  --color-card: #1f1f1f;
+  --color-title: #111;
+  --color-subtitle: #6B6B6B;
+  --color-link: #F4D04E;
+  --color-btn: #333333;
+
+  --radius: 20px;
+  --radius-s: 10px;
+  --radius-xs: 4px;
+  --radius-round: 50%;
+  --gap-24: 1.5rem;
+  --gap-12: 0.65rem;
+  --padding: 2.3rem 4rem;
+  --padding-s: 0 1rem;
+  --padding-btn: 1rem 0;
+
+  --ff: 'Inter', sans-serif;
+
+  --fs-24: 1.5rem;
+  --fs-20: 1.25rem;
+  --fs-16: 1rem;
+  --fs-14: 0.875rem;
+  --fs-12: 0.75rem;
+
+  --fw-400: 400;
+  --fw-600: 600;
+  --fw-700: 700;
+
+  --lh-150: 1.5;
+
+  --shadow-card: 8px 8px 0 0 rgba(0, 0, 0, 1);
+  --shadow-cursor: 0 1px 2 0 rgba(0, 0, 0, 1);
+
+  /* Цвета ссылок */
+  --link-color: hsl(228, 45%, 44%);
+  --link-hover-color: hsl(228, 70%, 60%);
+}
